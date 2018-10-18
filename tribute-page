@@ -1,0 +1,15 @@
+<DOCTYPE! html>
+  <html>
+  <main>
+    <h1 id="title">Mikalojus Konstantinas Čiurlionis</h1>
+    <div id="img-div">
+      <img id="image">
+      <img src="http://www.lithuania.travel/images/18/7_11/03.jpg" alt "link to picture" style="max-width:70%;" class="center"></img>
+      <h2 id="img-caption">Mikalojus Konstantinas Čiurlionis (Polish: Mikołaj Konstanty Czurlanis; 22 September [O.S. 10 September] 1875 – 10 April [O.S. 28 March] 1911) was a Lithuanian painter, composer and writer.[1]</h2>
+    </div>
+    <div id="tribute-info">Čiurlionis contributed to symbolism and art nouveau, and was representative of the fin de siècle epoch. He has been considered one of the pioneers of abstract art in Europe.[2] During his short life he composed about 400 pieces of music and created
+      about 300 paintings, as well as many literary works and poems. The majority of his paintings are housed in the M. K. Čiurlionis National Art Museum in Kaunas, Lithuania. His works have had a profound influence on modern Lithuanian culture.</div>
+    <a href="https://en.wikipedia.org/wiki/Mikalojus_Konstantinas_%C4%8Ciurlionis" target="_blank">Visit Wikipedia Page</a>
+  </main>
+
+  </html>
